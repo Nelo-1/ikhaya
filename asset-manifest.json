@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ikhaya/static/css/main.72334ffa.css",
+    "main.js": "/ikhaya/static/js/main.6d90b880.js",
+    "static/media/bath33.jpg": "/ikhaya/static/media/bath33.d2fa631d9b41047b0a6a.jpg",
+    "static/media/backg.jpg": "/ikhaya/static/media/backg.41ced3f20a455d634d65.jpg",
+    "static/media/agric01.jpg": "/ikhaya/static/media/agric01.d8c3d48c51b8672baddc.jpg",
+    "static/media/come1.jpg": "/ikhaya/static/media/come1.cda7daa3560c451cebe6.jpg",
+    "static/media/home1.jpg": "/ikhaya/static/media/home1.420ddec8f72c08b5b3b6.jpg",
+    "static/media/bath11.jpg": "/ikhaya/static/media/bath11.13fdd7744d56e6545d88.jpg",
+    "static/media/bed555.jpg": "/ikhaya/static/media/bed555.cafda20da3c66471daca.jpg",
+    "static/media/home3.jpg": "/ikhaya/static/media/home3.8aa6dc6c2f7fc1ed0713.jpg",
+    "index.html": "/ikhaya/index.html",
+    "main.72334ffa.css.map": "/ikhaya/static/css/main.72334ffa.css.map",
+    "main.6d90b880.js.map": "/ikhaya/static/js/main.6d90b880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72334ffa.css",
+    "static/js/main.6d90b880.js"
+  ]
+}
