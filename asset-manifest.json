@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ikhaya/static/css/main.72334ffa.css",
-    "main.js": "/ikhaya/static/js/main.6d90b880.js",
+    "main.js": "/ikhaya/static/js/main.22ef6fa5.js",
     "static/media/bath33.jpg": "/ikhaya/static/media/bath33.d2fa631d9b41047b0a6a.jpg",
     "static/media/backg.jpg": "/ikhaya/static/media/backg.41ced3f20a455d634d65.jpg",
     "static/media/agric01.jpg": "/ikhaya/static/media/agric01.d8c3d48c51b8672baddc.jpg",
@@ -12,10 +12,10 @@
     "static/media/home3.jpg": "/ikhaya/static/media/home3.8aa6dc6c2f7fc1ed0713.jpg",
     "index.html": "/ikhaya/index.html",
     "main.72334ffa.css.map": "/ikhaya/static/css/main.72334ffa.css.map",
-    "main.6d90b880.js.map": "/ikhaya/static/js/main.6d90b880.js.map"
+    "main.22ef6fa5.js.map": "/ikhaya/static/js/main.22ef6fa5.js.map"
   },
   "entrypoints": [
     "static/css/main.72334ffa.css",
-    "static/js/main.6d90b880.js"
+    "static/js/main.22ef6fa5.js"
   ]
 }
