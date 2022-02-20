@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/ikhayaLam/static/css/main.cee3ca41.css",
-    "main.js": "/ikhayaLam/static/js/main.00c0b553.js",
-    "static/media/bath33.jpg": "/ikhayaLam/static/media/bath33.d2fa631d9b41047b0a6a.jpg",
-    "static/media/ikhaya.jpeg": "/ikhayaLam/static/media/ikhaya.c12db70f07f7dff5c433.jpeg",
-    "static/media/innerkhaya.jpeg": "/ikhayaLam/static/media/innerkhaya.92e805f22de3357924c2.jpeg",
-    "static/media/bedRoomKhaya.jpeg": "/ikhayaLam/static/media/bedRoomKhaya.950c6c589013ab6ecd95.jpeg",
-    "static/media/backg.jpg": "/ikhayaLam/static/media/backg.41ced3f20a455d634d65.jpg",
-    "static/media/kitchenKhaya.jpeg": "/ikhayaLam/static/media/kitchenKhaya.0cd391e5c2df0d9c33e7.jpeg",
-    "static/media/agric01.jpg": "/ikhayaLam/static/media/agric01.d8c3d48c51b8672baddc.jpg",
-    "static/media/come1.jpg": "/ikhayaLam/static/media/come1.cda7daa3560c451cebe6.jpg",
-    "static/media/home1.jpg": "/ikhayaLam/static/media/home1.420ddec8f72c08b5b3b6.jpg",
-    "static/media/bath11.jpg": "/ikhayaLam/static/media/bath11.13fdd7744d56e6545d88.jpg",
-    "static/media/bed555.jpg": "/ikhayaLam/static/media/bed555.cafda20da3c66471daca.jpg",
-    "static/media/home3.jpg": "/ikhayaLam/static/media/home3.8aa6dc6c2f7fc1ed0713.jpg",
-    "index.html": "/ikhayaLam/index.html",
-    "main.cee3ca41.css.map": "/ikhayaLam/static/css/main.cee3ca41.css.map",
-    "main.00c0b553.js.map": "/ikhayaLam/static/js/main.00c0b553.js.map"
+    "main.css": "/ikhaya/static/css/main.72334ffa.css",
+    "main.js": "/ikhaya/static/js/main.5f4d9a25.js",
+    "static/media/bath33.jpg": "/ikhaya/static/media/bath33.d2fa631d9b41047b0a6a.jpg",
+    "static/media/ikhaya.jpeg": "/ikhaya/static/media/ikhaya.c12db70f07f7dff5c433.jpeg",
+    "static/media/innerkhaya.jpeg": "/ikhaya/static/media/innerkhaya.92e805f22de3357924c2.jpeg",
+    "static/media/bedRoomKhaya.jpeg": "/ikhaya/static/media/bedRoomKhaya.950c6c589013ab6ecd95.jpeg",
+    "static/media/backg.jpg": "/ikhaya/static/media/backg.41ced3f20a455d634d65.jpg",
+    "static/media/kitchenKhaya.jpeg": "/ikhaya/static/media/kitchenKhaya.0cd391e5c2df0d9c33e7.jpeg",
+    "static/media/agric01.jpg": "/ikhaya/static/media/agric01.d8c3d48c51b8672baddc.jpg",
+    "static/media/come1.jpg": "/ikhaya/static/media/come1.cda7daa3560c451cebe6.jpg",
+    "static/media/home1.jpg": "/ikhaya/static/media/home1.420ddec8f72c08b5b3b6.jpg",
+    "static/media/bath11.jpg": "/ikhaya/static/media/bath11.13fdd7744d56e6545d88.jpg",
+    "static/media/bed555.jpg": "/ikhaya/static/media/bed555.cafda20da3c66471daca.jpg",
+    "static/media/home3.jpg": "/ikhaya/static/media/home3.8aa6dc6c2f7fc1ed0713.jpg",
+    "index.html": "/ikhaya/index.html",
+    "main.72334ffa.css.map": "/ikhaya/static/css/main.72334ffa.css.map",
+    "main.5f4d9a25.js.map": "/ikhaya/static/js/main.5f4d9a25.js.map"
   },
   "entrypoints": [
-    "static/css/main.cee3ca41.css",
-    "static/js/main.00c0b553.js"
+    "static/css/main.72334ffa.css",
+    "static/js/main.5f4d9a25.js"
   ]
 }
